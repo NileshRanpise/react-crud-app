@@ -1,0 +1,19 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "stuname": "Nilesh Ranpise",
+      "email": "nilesh@gmail.com"
+    },
+    {
+      "id": 2,
+      "stuname": "Virat Kohli",
+      "email": "virat@gmail.com"
+    },
+    {
+      "id": "4",
+      "stuname": "Rohit sharma",
+      "email": "rohit@gmail.com"
+    }
+  ]
+}
